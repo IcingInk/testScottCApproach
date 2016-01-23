@@ -12,5 +12,6 @@ package com.mycompany.gitfirsttest;
 public class Startup {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Hello! The second time! ");
     }
 }
