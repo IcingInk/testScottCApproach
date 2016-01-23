@@ -11,5 +11,5 @@ package com.mycompany.gitfirsttest;
  * @author ingimar
  */
 public class FailsToBuild {
-    krasch;
+    // nu ska det funka
 }
